@@ -1,0 +1,17 @@
+<rss version="2.0">
+  <channel>
+    <title>CPA Unconfirmed</title>
+    <link>http://cpafiles.rf.gd</link>
+    <description>Latest news and updates from [cpa name]!</description>
+    <image>
+      <url>raw.githubusercontent.com/Calebh101/cpa/main/feed.xml</url>
+    </image>
+    
+    <item>
+      <title>Article 1</title>
+      <link>http://www.blog.google</link>
+      <description>This is the first article.</description>
+      <pubDate>Tue, 24 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
