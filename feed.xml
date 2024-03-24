@@ -2,7 +2,7 @@
   <channel>
     <title>CPA Unconfirmed</title>
     <link>http://cpafiles.rf.gd</link>
-    <description>Latest news and updates from [cpa name]</description>
+    <description>Latest news and updates from [cpa name]!</description>
     <image>
       <url>raw.githubusercontent.com/Calebh101/cpa/main/feed.xml</url>
     </image>
