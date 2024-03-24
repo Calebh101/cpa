@@ -3,19 +3,15 @@
     <title>CPA Unconfirmed</title>
     <link>http://cpafiles.rf.gd</link>
     <description>Latest news and updates from [cpa name]</description>
+    <image>
+      <url>http://www.example.com/favicon.ico</url>
+    </image>
     
     <item>
       <title>Article 1</title>
-      <link>http://www.example.com/article1</link>
+      <link>http://www.blog.google</link>
       <description>This is the first article.</description>
       <pubDate>Tue, 24 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title>Article 2</title>
-      <link>http://www.example.com/article2</link>
-      <description>This is the second article.</description>
-      <pubDate>Wed, 25 Mar 2024 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
